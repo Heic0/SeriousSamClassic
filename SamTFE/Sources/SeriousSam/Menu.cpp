@@ -288,7 +288,8 @@ CTString astrSplitScreenRadioTexts[] = {
 };
 PIX apixAspectRatios[][2] =
 {
-	4, 	3,
+	4, 3,
+	5, 4,
 	16, 9,
 	16, 10,
 	21, 9,
